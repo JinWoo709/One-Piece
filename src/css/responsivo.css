@@ -113,12 +113,12 @@
     }
 
     .conteudo {
-        top: -26%;
+        top: -25%;
     }
 
     .conteudo .descricao {
         color: white;
-        font-size: 12px;
+        font-size: 11px;
         line-height: 19px;
     }
 
